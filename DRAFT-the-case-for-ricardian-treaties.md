@@ -35,7 +35,7 @@ Web3 technologies are enabling a new frontier in international law, by which sta
 
 “Blended” treaties - smart x prose or legal (agreements between sovereign entities and terms of enforcement)
 
-Environmental monitoring
+### Environmental monitoring
 
 The good health of the Earth is necessary for our ability to thrive. We survive because the local environmental conditions to our bodies stay within a range we can tolerate - if we are too hot or too cold or too dry or too wet for too long, we will die. This is true of every living object (organic or synthetic - if life is 'the maintenance of a chemical and electrical gradient', computers are alive).
 
@@ -59,15 +59,13 @@ Such spatial financial incentives ...
 
 "Does geospatial data and analysis have implications for traditional theories of finance and economic geography?"
 
-Air quality
+Air quality / Carbon sequestration
 
-Carbon sequestration
-
-Transport and logistics
+### Transport and logistics
 
 As global inter-reliance in our transport and logistics systems and supply supply chain builds, so does the need for a strong system for governing this global activity. Vehicles are quite unique as objects: they are designed to move between sovereign jurisdictions ...
 
-Financial Activity
+### Financial Activity
 
 If Mark Carney's ["synthetic hegemonic [digital] currency"](https://www.bankofengland.co.uk/-/media/boe/files/speech/2019/the-growing-challenges-for-monetary-policy-speech-by-mark-carney.pdf) comes to pass, states issuing central bank digital currencies have an opportunity to build international financial regulation and oversight mechanisms into the consensus protocols 
 
@@ -77,21 +75,27 @@ Achieving these gains would require unprecedented agreement by the key players i
 
 Beyond identifying money launderers and criminals, an interlocking constellation of fiat digital currencies governed by Ricardian treaties would enable the application of instant and hyper-targeted sanctions. The Magnitsky Act enabled the sanctioning of individuals
 
-Targeted Sanctions
+### Targeted Sanctions
 
-Physical objects like ships
+Physical objects like ships - based on where they go. (i.e. maritime sanctions)
 
 Magnitsky Act
 
 [ more research into the way sanctions work, and why the Magnitsky Act was so groundbreaking ]
 
 Forms of informational incentivization
+- Access to capital (paying money, or letting them get loans etc. Read about preferential terms net zero companies get on debt financing)
+- Access to other digital assets
+- Access to rights
+- Access to insurance coverage
+- Access to information (i.e. plaintext)
 
-The need for self-sovereign digital identity
+
+### The need for self-sovereign digital identity
 
 Naturally this entire thought experiment is built on the assumption of a robust system of identifying individuals and the effects of their actions. This assumption seems plausible given developing interest in the adoption of central bank digital currencies, along with existing personal and organizational identity systems administered by governments. Any self sovereign system will need to solve the challenge of private key management in a way that preserves individual autonomy and leaves room for mistakes - imagining a community where this is solved, I see great potential to pay people to behave in pro-social and pro-environmental ways. 
 
-Addressing the GIGO problem
+### Addressing the GIGO problem
 
 A very right criticism of smart contracts - and any computer program - has to do with the conceptual integrity of the input parameters. Objectively, inputs can be formed as data structures that the algorithm will accept - programs can be written such that data must strongly adhere to prescribed types - and most (if not all?) smart contract scripting languages are strongly typed. 
 
