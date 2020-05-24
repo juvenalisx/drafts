@@ -1,18 +1,9 @@
 # The Case for Ricardian treaties
 
-## Applications of smart contracts
+## Applications of smart contracts to international law
 
-The case for Ricardian governance?
+(or: The case for Ricardian governance?)
 
-Requirements 
-
-Prerequisites for Ricardian treaties?
-
-Probabilistic and / or trusted (objective) oracles
-
-Resilient decentralized identity
-
-Proper understanding by policy makers and treaty monitors / enforcers 
 
 Treaties are agreements between sovereign states and international organizations.
 
@@ -64,7 +55,7 @@ On an organizational or project level, It could mean using a network of trained 
 
 On a national and super-national level, countries and multinational organizations could likewise be paid if climate targets are met. This data-driven incentivization regime could - if properly designed - create the conditions for the most rapid and least disruptive transition to a sustainable global demos and mechanos. We might even decide to *pay ourselves in the future* if we meet certain goals. Consideration of how programmable incentivization  conditional on information input from environmental monitoring devices could support our efforts to ... A financial system based on an interconnected constellation of government-issued digital currencies is fertile ground for experimentation with green finance initiatives contingent on spatial data analytics.
 
-Such spatial financial
+Such spatial financial incentives ...
 
 "Does geospatial data and analysis have implications for traditional theories of finance and economic geography?"
 
@@ -74,11 +65,11 @@ Carbon sequestration
 
 Transport and logistics
 
-As global inter-reliance in our transport and logistics systems and supply supply chain builds, so does the need for a strong system for governing this global activity. Vehicles are quite unique as objects: they are designed to move between sovereign jurisdictions
+As global inter-reliance in our transport and logistics systems and supply supply chain builds, so does the need for a strong system for governing this global activity. Vehicles are quite unique as objects: they are designed to move between sovereign jurisdictions ...
 
 Financial Activity
 
-If Mark Carney's "synthetic hegemonic [digital] currency" comes to pass, states issuing central bank digital currencies have an opportunity to build international financial regulation and oversight mechanisms into the consensus protocols 
+If Mark Carney's ["synthetic hegemonic [digital] currency"](https://www.bankofengland.co.uk/-/media/boe/files/speech/2019/the-growing-challenges-for-monetary-policy-speech-by-mark-carney.pdf) comes to pass, states issuing central bank digital currencies have an opportunity to build international financial regulation and oversight mechanisms into the consensus protocols 
 
 Tax havens *could* become a relic of a time when information traveled inscribed on paper, rather than light. Illicit actors take advantage of the complexities of living on a world with fragmented sovereignty - even a single permissive jurisdiction can provide a hiding place for all manner of ill-gotten capital. However, with our increasingly interconnected world, an algorithmic form of global governance is becoming possible. If fiat digital currencies included in this synthetic hegemonic currency adhere to a protocol which enables an all-seeing eye to gaze upon the world's financial activity, identifying corrupt actors could be simple. I am a proponent of respecting the individual's right to privacy while taking action to ensure pro-social behavior, and urge policymakers and system designers to err towards benevolent and privacy-preserving surveillance technologies. If designed properly, only those suspected of illegal behavior would find their right to privacy waived while proper authorities investigate. If no law breaking is found, privacy could be reinstated. 
 
@@ -116,10 +107,14 @@ For this reason, smart contract design deserves extremely careful consideration.
 ## Principles for Ricardian treaty design
 
 Decentralization
+- Probabilistic oracles
 
 For integrity, availability
 
 Self sovereignty and robust identity
+- ... 
+- key management
+- Trusted IoT
 
 Parties to a Ricardian treaty
 
@@ -135,4 +130,9 @@ Minimize scale: the value of microtreaties
 
 An antifragile system will adapt to defects before they manifest to the extent that they threaten the health of the system. Ricardian treaty regimes will always have defects. It is imperative, therefore, that faults be discovered and addressed early and often. For this reason, I believe it may be more appropriate to imagine Ricardian microtreaties, or perhaps streaming Ricardian treaties. 
 
-Such treaties would have small scale
+Such treaties would have small scale consequences based on small actions. 
+
+
+Additional / duplicate principles / Requirements ? Prerequisites for Ricardian treaties?
+
+Proper understanding by policy makers and treaty monitors / enforcers 
